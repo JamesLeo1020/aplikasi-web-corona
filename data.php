@@ -19,8 +19,8 @@ thead{
   color: white;
 }
 tbody{
-  background-color: #00ff7f;
-  color: black;
+  background-color: #342ead;
+  color: white;
 }
 </style>
 <div class="container">
@@ -78,7 +78,6 @@ tbody{
                 ?>
               </tbody>
             </table>
-            <a href="http://localhost/covid/tambah.php"><button type="submit" class="btn btn-success" >Isi Data</button></a>
           </div>
         </div>
       </div>
